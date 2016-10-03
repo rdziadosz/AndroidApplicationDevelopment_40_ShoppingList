@@ -1,0 +1,5 @@
+What you have to do make your shopping list available to other installed applications?
+1. Content Provider
+https://developer.android.com/guide/topics/providers/content-providers.html
+2. Share the database
+http://stackoverflow.com/questions/7053809/share-sqlite-database-between-2-android-apps
